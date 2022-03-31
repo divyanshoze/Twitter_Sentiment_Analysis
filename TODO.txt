@@ -1,0 +1,14 @@
+Things to do
+
+Get Data from Kaggle
+Use Spark to read the data
+Do data visualization
+Do data preprocessing 
+Perform Machine Learning on the Data 
+Decide a Metric 
+Print the results
+
+Things Done
+
+Get Data from Kaggle 
+
