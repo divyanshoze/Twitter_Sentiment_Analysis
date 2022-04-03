@@ -12,4 +12,6 @@ Things Done
 
 Get Data from Kaggle 
 Read Data using pandas - (Has to do it with Spark)
+This shit is to be converted to a spark data frame that takes really long and is real shit
+After this perform some data visuallization and try some NLTK steps
 
