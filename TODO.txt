@@ -11,4 +11,5 @@ Print the results
 Things Done
 
 Get Data from Kaggle 
-Read the data using spark (Partially done Everything is being read as a string convert it to their data type)
+Read the data using spark and changed the schema accordingly
+
