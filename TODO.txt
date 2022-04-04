@@ -12,4 +12,5 @@ Things Done
 
 Get Data from Kaggle 
 Read the data using spark and changed the schema accordingly
+Concatinated the trump and biden into a single data
 
