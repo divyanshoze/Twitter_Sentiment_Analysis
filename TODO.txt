@@ -4,9 +4,9 @@ Get Data from Kaggle
 Use Spark to read the data
 Do data visualization
 Do data preprocessing 
-Perform Machine Learning on the Data 
-Decide a Metric 
-Print the results
+Perform Machine Learning on the Data/Use Text blob library 
+Print the results / Print the graph and the counts between trump and biden
+
 
 Things Done
 
@@ -14,3 +14,4 @@ Get Data from Kaggle
 Read the data using spark and changed the schema accordingly
 Concatinated the trump and biden into a single data
 Done EDA
+Done Preprocessing
