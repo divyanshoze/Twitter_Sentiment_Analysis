@@ -7,6 +7,12 @@ Do data preprocessing
 Perform Machine Learning on the Data/Use Text blob library 
 Print the results / Print the graph and the counts between trump and biden
 
+We need change classification to numbers - UDF lambda Function  - Positive , Negative and Neutral %Good we can get over without this:  1, -1, 0  
+We need to write Global MLIB model which will use polarity and sentiment as features output multiclass classification to give us classification
+We need to plot some graphs candidate wise. 
+
+We need to work on report
+
 
 Things Done
 
@@ -15,3 +21,4 @@ Read the data using spark and changed the schema accordingly
 Concatinated the trump and biden into a single data
 Done EDA
 Done Preprocessing
+We gotten the results using text blob 
